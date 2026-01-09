@@ -150,7 +150,7 @@
   },
   "homepage": "https://github.com/SuperInstance/JEPA-Real-Time-Sentiment-Analysis#readme",
   "devDependencies": {
-    "typescript": "^5.6.3"
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=18.0.0"
